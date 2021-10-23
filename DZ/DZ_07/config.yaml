@@ -1,0 +1,6 @@
+root my_project2
+settings __init.py__,dev.py,prod.py
+mainapp __init.py__,models.py,views.py
+authapp __init.py__,models.py,views.py
+mainapp\templates\mainapp base.html,index.html
+authapp\templates\authapp base.html,index.html
